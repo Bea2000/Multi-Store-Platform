@@ -2,6 +2,16 @@
 
 This project is a web-based platform developed during the first semester of 2021 for the Database course. The application allows users to browse various stores, view available products, make purchases, register, log in, and view their purchase history. It was built using PHP and PostgreSQL and is designed to run on an Apache server.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 ## Features
 
 - Browse multiple stores and their available products.
